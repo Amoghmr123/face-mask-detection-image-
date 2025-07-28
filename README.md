@@ -29,6 +29,6 @@ User-uploaded grayscale images labeled as "masked" or "unmasked".
 - CNN-based comparison
 - Cloud deployment
 
-## 📁 Run in Colab
+##  Run in Colab
 [![Open In Colab](https://colab.research.google.com/drive/1rq3gBfNXTeP1Syh281QIr3YFNdwUdUZ_)
 
