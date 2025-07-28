@@ -30,5 +30,5 @@ User-uploaded grayscale images labeled as "masked" or "unmasked".
 - Cloud deployment
 
 ## 📁 Run in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/drive/1rq3gBfNXTeP1Syh281QIr3YFNdwUdUZ_)
 
